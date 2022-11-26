@@ -1,0 +1,13 @@
+.lights-wrapper {
+  width: 180px;
+  height: 410px;
+  background-color: #1f1f1f;
+  border-radius: 15px;
+}
+
+.light {
+  width: 120px;
+  height: 120px;
+  background-color: #808080;
+  border-radius: 50%;
+}
